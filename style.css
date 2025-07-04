@@ -12,7 +12,7 @@ div {
   border: 3px solid #8D735A;
   background-color: #FFDCBB;
   border-radius: 30px;
-  font-size: 32px;
+  font-size: 16px;
 }
 
 .tarun {
@@ -74,7 +74,6 @@ div {
   width: 90%;
   margin: 40px auto;
   padding: 25px;
-  font-size: 16px;
 }
 
 .yt_btn {
